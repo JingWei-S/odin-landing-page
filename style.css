@@ -9,7 +9,7 @@ body {
 
 .header {
     background-color: #1f2937;
-    padding: 4px 0;
+    padding: 24px 0;
 }
 
 .footer {
@@ -58,7 +58,7 @@ li {
     color: #e5e7eb;
     gap: 96px;
     justify-content: center;
-    padding-top: 48px;
+    padding-top: 36px;
     padding-bottom: 96px;
     flex: 1;
     align-items: center;
